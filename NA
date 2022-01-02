@@ -1,0 +1,13 @@
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/NF1LCVWm/betis-tv.png" group-title="Sport",Betis TV
+https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8
+https://live.creacast.com/d5tv/smil:d5tv.smil/chunklist_w958420568_b1928000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="" group-title="Music",D5TV
+http://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="" group-title="Music",DBM
+#EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-exyu.xml.gz"
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bosnian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Al_Jazeera_Balkans.png/220px-Al_Jazeera_Balkans.png" group-title="News",Al Jazeera Balkans
+https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bosnian" tvg-logo="https://i.imgur.com/AD3Ak7T.png" group-title="",Hema Televizija
+http://77.238.209.50:8080/hema1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bosnian" tvg-logo="https://i.imgur.com/hdwjkYa.png" group-title="",Televizija 5
+http://37.59.21.217:8802/tv5hd.ts
